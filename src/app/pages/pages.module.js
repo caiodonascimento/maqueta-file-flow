@@ -10,6 +10,7 @@
     'BlurAdmin.pages.initial',
     'BlurAdmin.pages.list-colaborators',
     'BlurAdmin.pages.dashboard',
+    'BlurAdmin.pages.list-personal',
     'BlurAdmin.pages.profile',
   ])
       .config(routeConfig);

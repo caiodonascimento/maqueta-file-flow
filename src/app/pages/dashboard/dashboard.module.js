@@ -14,9 +14,9 @@
         .state('dashboard', {
           url: '/dashboard',
           templateUrl: 'app/pages/dashboard/dashboard.html',
-          title: 'Dashboard',
+          title: 'Cuadro de Control',
           sidebarMeta: {
-            icon: 'ion-android-home',
+            icon: 'ion-pie-graph',
             order: 50,
           },
         });

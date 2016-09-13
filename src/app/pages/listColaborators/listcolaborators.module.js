@@ -16,7 +16,7 @@
           templateUrl: 'app/pages/listColaborators/listColaborators.html',
           title: 'Colaboradores',
           sidebarMeta: {
-            icon: 'ion-person-stalker',
+            icon: 'ion-briefcase',
             order: 1,
           },
         });
